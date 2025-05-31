@@ -5,7 +5,7 @@ import Footer from './Components/Footer';
 
 // rsc
 const App = () => {
-  let grade = 60
+  let grade = 123
   return (
     <div>
       {
